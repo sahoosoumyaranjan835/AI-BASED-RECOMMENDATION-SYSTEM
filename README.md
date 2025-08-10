@@ -124,3 +124,6 @@ Streaming platforms – Recommending movies or music.
 
 E-learning – Suggesting courses based on similar learners.
 
+## OUTPUT ##
+
+<img width="1619" height="859" alt="Image" src="https://github.com/user-attachments/assets/f7adbe6b-2e33-4e29-90c1-fc5bb76344e3" />
